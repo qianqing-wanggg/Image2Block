@@ -1,4 +1,4 @@
-# Stone Wall Analysis Toolkit
+# Image2Analysis: An automated pipeline for rigid block modeling of rubble masonry walls
 
 ## Overview
 
