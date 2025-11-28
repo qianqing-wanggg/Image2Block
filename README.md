@@ -1,4 +1,4 @@
-# Image2Analysis: An automated pipeline for rigid block modeling of rubble masonry walls
+# Image2Block: An automated pipeline for rigid block modeling of rubble masonry walls
 
 ## Overview
 
