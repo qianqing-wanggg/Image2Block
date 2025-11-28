@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository provides workflows for analyzing masonry walls under shear-compression loading using limit analysis and pushover analysis. Models are derived from binary images of wall structures.
+This repository provides image-based pipelines for analyzing masonry walls under shear-compression loading using limit analysis and pushover analysis. Models are derived from binary images of wall structures.
 
 The modeling method is optimization-based rigid block modeling. Please refer to these publications for detailed explanation:
 
@@ -10,7 +10,7 @@ The modeling method is optimization-based rigid block modeling. Please refer to 
 
     Wang, Q., Haindl, M., dos Santos, K. R., & Beyer, K. (2024). Applying a 2D variational rigid block modeling method to rubble stone masonry walls considering uncertainty in material properties. International Journal of Architectural Heritage, 1-23.
 
-The image below illustrates an example output of the limit analysis:
+The image below illustrates an example analysis showing the failure mode of a rubble stone masonry wall:
 ![limit_analysis](./img/limit_analysis.png)
 
 ## Table of Contents
@@ -203,7 +203,7 @@ If you use this toolkit in your research or publications, please cite the follow
 
 ## Contact
 
-For questions, feedback, or collaboration inquiries, please contact:
+For questions and feedback, please contact:
 
 **Qianqing Wang** at [Earthquake Engineering and Structural Dynamics (EESD)](https://www.epfl.ch/labs/eesd/)
 
